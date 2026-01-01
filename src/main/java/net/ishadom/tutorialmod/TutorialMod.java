@@ -1,5 +1,5 @@
 package net.ishadom.tutorialmod;
-
+// yooo
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
