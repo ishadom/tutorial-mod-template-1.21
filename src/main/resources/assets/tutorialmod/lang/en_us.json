@@ -1,4 +1,10 @@
 {
   "item.tutorialmod.poisoned_apple": "Poisoned Apple",
-  "item.tutorialmod.chocolate": "Chocolate"
+  "item.tutorialmod.chocolate": "Chocolate",
+  "item.tutorialmod.white_chocolate": "White Chocolate",
+  "item.tutorialmod.dark_chocolate": "Dark Chocolate",
+
+  "block.tutorialmod.chocolate_block": "Block of Chocolate",
+  "block.tutorialmod.dark_chocolate_block": "Block of Dark Chocolate",
+  "block.tutorialmod.white_chocolate_block": "Block of White Chocolate"
 }
